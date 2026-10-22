@@ -1,0 +1,21 @@
+,household_id,person,name,age,income,female
+0,892,1,Henry Snyder,85,134665,1
+1,892,2,Robert Campbell,85,104871,0
+2,892,3,Mary Mason,50,49719,0
+3,892,4,Amy Walker,37,48677,0
+4,3679,1,Rhonda Humphrey,96,34168,1
+5,5636,1,Daniel Deleon,20,135796,0
+6,5636,2,Michael Wilson,97,56915,1
+7,5636,3,Janet Brown,95,10665,1
+8,5636,4,Peggy Martin,36,34645,1
+9,5636,5,Anthony Collins,36,33459,0
+10,3600,1,Larry Williamson,74,43856,1
+11,1783,1,Calvin Porter,27,58413,1
+12,4324,1,Sarah Brown,77,88169,0
+13,4020,1,Julia Sanders,91,96732,1
+14,4020,2,Mary Ramirez,49,75007,1
+15,4020,3,Justin Parker,55,103669,0
+16,3436,1,Christopher Walters,91,100172,1
+17,3436,2,Robert Gonzalez,54,37924,0
+18,3436,3,Meredith Castro,67,85772,0
+19,3436,4,Mr. Robert Robinson,66,39310,0
